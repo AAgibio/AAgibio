@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAgibio&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AAgibio&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AAgibio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAgibio&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AAgibio&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AAgibio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="100" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/DeHxdra0ayPQc/giphy.gif?cid=790b7611s7fjgl0dnu1lq5o0nkw53r70xhm631c4r2c37ree&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="100" src="https://media.giphy.com/media/DeHxdra0ayPQc/giphy.gif?cid=790b7611s7fjgl0dnu1lq5o0nkw53r70xhm631c4r2c37ree&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
