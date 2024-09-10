@@ -15,4 +15,4 @@ Prazer, sou o Augusto e esse é meu GitHub de estudos.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAgibio&theme=highcontrast&show_icons=true&hide=stars&locale=pt-br)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aagibio&layout=compact&theme=highcontrast&show_icons=true&locale=pt-br&card_width=468px&langs_count=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aagibio&theme=highcontrast&show_icons=true&locale=pt-br&card_width=468px&langs_count=10)
